@@ -27,7 +27,7 @@
 - Linux
 - Data Link(UAM communication)
 
-## 💡 Main Programming Languages
+## 💡 Main Programming Language
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 ## 🔥 Work
@@ -36,12 +36,12 @@
    → Object Detection 기반 AI 개발<br>
    → Data Link 체계 개발
    
-## 🏫 Education
+## 🏫 Educations
 
 - 조선대학교 항공우주공학과 졸업(2022.02)
 - 인공지능 사관학교 수료(2021.12)
 
-## 🙋 Awards and License 
+## 🙋 Awards and Certifications 
 
 - AWS Deep Racer Contest 최우수상 수상 (2021.02)
 - DSAC-M7.Autonomous vehicle ai Software Academy & Certificate 수료 및 자격증 (2021.02)
