@@ -49,7 +49,7 @@
 
 ## 💻 Projects
 
- - 3D Object Detection (2023.03 ~ )<br>
+ - Panorama Motion Detection (2023.03 ~ )<br>
    ➡ 여러대의 카메라를 활용한 Motion Detection<br>
    ➡ Stitching(CV tool), Motion Dectect<br>
    
@@ -59,13 +59,13 @@
    
  - Realtime-Acion-Recognition (2022.11 ~ 2022.12)<br>
     ➡ 실시간 포즈 인식<br>
-    ➡ Open-cv, Scikit-learn, Tensorflow<br>
+    ➡ Open-CV, Scikit-learn, Tensorflow<br>
     
  - Object Detection (2022.02 ~ 2022.11)<br>
    ➡ UAM 적용 Object Detection<br>
-   ➡ YOLOV5, Super Resolutio, Warping, 주요 색상 인식, 객체 크기 인식. PWM 제어, Labelimg<br>
+   ➡ YOLOV5, Super Resolution, Warping, 주요 색상 인식, 객체 크기 인식. PWM 제어, Labelimg<br>
    
- - Imbedded borad (2022.05 ~ 2022.08)<br>
+ - Imbedded Borad (2022.05 ~ 2022.08)<br>
    ➡ Nvidia Jetson Nano 기반 Object Detection<br>
    ➡ YOLOV5, Jetpack<br>
    
@@ -79,7 +79,7 @@
    
  - 블로그 웹 개발 (2021.05 ~ 2021.08)<br>
    ➡ 블로그 기본 기능 + Social Login 및 Docker를 이용한 배포<br> 
-   ➡ Django, Maria DB, Dcoker, Nginx<br>
+   ➡ Django, Maria DB, Docker, Nginx<br>
    
  - 스터디 모임 웹 개발 (2021.05 ~ 2021.06)<br>
    ➡ Django, Maria DB<br>
