@@ -32,7 +32,7 @@
 
 ## 🔥 Work
 
- - 베셀 에어로스페이스(2021.12~)<br>
+ - 베셀 에어로스페이스(2021.12 ~ )<br>
    → Object Detection 기반 AI 개발<br>
    → Data Link 체계 개발
    
@@ -81,7 +81,7 @@
    ➡ 블로그 기본 기능 + Social Login 및 Docker를 이용한 배포<br> 
    ➡ Django, Maria DB, Dcoker, Nginx<br>
    
- - 스터디 모임 웹 개발 (2021.05 ~ 2022.06)<br>
+ - 스터디 모임 웹 개발 (2021.05 ~ 2021.06)<br>
    ➡ Django, Maria DB<br>
  
  - 인구 밀집도 분석 앱 개발 (2021.02 ~ 2021.05)<br>
