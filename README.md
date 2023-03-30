@@ -41,7 +41,7 @@
 - 조선대학교 항공우주공학과 졸업(2022.02)
 - 인공지능 사관학교 수료(2021.12)
 
-## 🙋 Awards and Other
+## 🙋 Awards and License 
 
 - AWS Deep Racer Contest 최우수상 수상 (2021.02)
 - DSAC-M7.Autonomous vehicle ai Software Academy & Certificate 수료 및 자격증 (2021.02)
@@ -49,6 +49,44 @@
 
 ## 💻Project
 
- - GCS 개발 + Yolov5 적용 (2023.01 ~)<br>
+ - 3D Object Detection (2023.03 ~ )<br>
+ - GCS 개발 + Yolov5 적용 (2023.01 ~ )<br>
+ - Realtime-Acion-Recognition (2022.11 ~ 2022.12)<br>
+ - Object Detection (2022.02 ~ 2022.11)<br>
+   → YOLOV5
+   → Super Resolution
+   → Warping
+   → 주요 색상 인식
+   → 객체 크기 인식
+   → PWM
+ - Imbedded borad (2022.05 ~ 2022.08)<br>
+   → Nvidia Jetson Nano
+ - 계약서 타당성 검토 웹 개발 (2021.09 ~ 2022.11)<br>
+   → Flask
+   → LSTM
+   → OCR
+ - 영어 학습 웹 개발 (2021.08 ~ 2022.09)<br>
+   → Django
+   → Maria DB
+   → Image Captioning
+   → Transformer
+ - 블로그 웹 개발 (2021.05 ~ 2022.08)<br>
+   → Django
+   → Maria DB
+   → Dcoker   
+   → Nginx
+ - 스터디 모임 웹 개발 (2021.05 ~ 2022.06)<br>
+   → Django
+   → Maria DB
+ - 인구 밀집도 분석 앱 개발
+   → YOLOV3
+   → Groom IDE
+
+
+
+
+
+   
+
    
     
