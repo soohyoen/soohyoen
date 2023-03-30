@@ -33,7 +33,7 @@
 ## 🔥 Work
 
  - 베셀 에어로스페이스(2021.12~)<br>
-   → Object Detection 기반 AI 개발
+   → Object Detection 기반 AI 개발<br>
    → Data Link 체계 개발
    
 ## 📘 Education
