@@ -71,7 +71,7 @@
    ➡ 영어 작문 능력 학습을 위한 웹 개발<br> 
    ➡ Django,Maria DB,Image Captioning,Transformer<br>
  - 블로그 웹 개발 (2021.05 ~ 2022.08)<br>
-   ➡ 블로그 기본 기능 + Social Login, Docker를 이용한 배포를 통한 웹 서비스 개발<br> 
+   ➡ 블로그 기본 기능 + Social Login 및 Docker를 이용한 배포<br> 
    ➡ Django, Maria DB, Dcoker, Nginx<br>
  - 스터디 모임 웹 개발 (2021.05 ~ 2022.06)<br>
    ➡ Django, Maria DB<br>
