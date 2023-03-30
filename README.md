@@ -17,7 +17,7 @@
 항상 도전적인 정신으로 개발 중이에요<br>
 </p>
 
-## 💻 Technologies I Love
+## 📖 Technologies I Love
 
 - Machine Learning
 - Deep Learning
@@ -47,4 +47,8 @@
 - DSAC-M7.Autonomous vehicle ai Software Academy & Certificate 수료 및 자격증 (2021.02)
 - DSAC-M5.Image Analysis 수료 및 자격증 (2021.01)
 
+## 💻Project
 
+ - GCS 개발 + Yolov5 적용 (2023.01 ~)<br>
+   
+    
