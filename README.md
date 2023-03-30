@@ -47,7 +47,7 @@
 - DSAC-M7.Autonomous vehicle ai Software Academy & Certificate 수료 및 자격증 (2021.02)
 - DSAC-M5.Image Analysis 수료 및 자격증 (2021.01)
 
-## 💻 Project
+## 💻 Projects
 
  - 3D Object Detection (2023.03 ~ )<br>
    ➡ 여러대의 카메라를 활용한 Motion Detection<br>
