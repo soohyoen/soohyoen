@@ -16,3 +16,13 @@
 제 이름은 서수현이고 UAM AI 개발자에요!<br>
 항상 도전적인 정신을 가지며 개발에 임하고 있습니다.<br>
 </p>
+
+## 💻 Technologies I Love
+
+- Machine Learning
+- Deep Learning
+- Image Processing
+- Object Detect
+- Data Sciece
+- Linux
+
