@@ -14,7 +14,7 @@
 <p align= "center">
 반갑습니다<br>
 제 이름은 서수현이고 UAM AI 개발자에요!<br>
-항상 도전적인 정신을 가지며 개발에 임하고 있습니다.<br>
+항상 도전적인 정신으로 개발 중이에요<br>
 </p>
 
 ## 💻 Technologies I Love
@@ -27,5 +27,10 @@
 - Linux
 - Data Link(UAM communication)
 
-## 🤐 Programming Languages
+## 🤐 Main Programming Languages
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
+## 💡 Sub Programming Languages
+<img alt="C" src="https://img.shields.io/badge/C++%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/JS%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+
