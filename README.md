@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Hello World! I`m soohyoen 👋&fontSize=90)
 
 
