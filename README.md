@@ -68,15 +68,15 @@
    ➡ 인테리어 견적서 및 계약서 타당성 검토 웹 개발<br>   
    ➡ Flask, LSTM, OCR<br>
  - 영어 학습 웹 개발 (2021.08 ~ 2022.09)<br>
-   ➡ 영어 작문 능력 학습을 위한 웹 개발
+   ➡ 영어 작문 능력 학습을 위한 웹 개발<br> 
    ➡ Django,Maria DB,Image Captioning,Transformer<br>
  - 블로그 웹 개발 (2021.05 ~ 2022.08)<br>
-   ➡ 블로그 기본 기능 + Social Login, Docker를 이용한 배포를 통한 웹 서비스 개발
+   ➡ 블로그 기본 기능 + Social Login, Docker를 이용한 배포를 통한 웹 서비스 개발<br> 
    ➡ Django, Maria DB, Dcoker, Nginx<br>
  - 스터디 모임 웹 개발 (2021.05 ~ 2022.06)<br>
    ➡ Django, Maria DB<br>
  - 인구 밀집도 분석 앱 개발<br>
-   ➡ Object Detection을 통한 음식점 회전율 분석 프로젝트
+   ➡ Object Detection을 통한 음식점 회전율 분석 프로젝트<br> 
    ➡ YOLOV3, Groom IDE<br>
 
 
