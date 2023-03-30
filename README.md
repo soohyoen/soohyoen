@@ -50,39 +50,39 @@
 ## 💻Project
 
  - 3D Object Detection (2023.03 ~ )<br>
-   → Stiting(CV tool)<br>
-   → Motion Dectect<br>
+   ➡ Stitching(CV tool)<br>
+   ➡ Motion Dectect<br>
  - GCS 개발 + Yolov5 적용 (2023.01 ~ )<br>
  - Realtime-Acion-Recognition (2022.11 ~ 2022.12)<br>
  - Object Detection (2022.02 ~ 2022.11)<br>
-   → YOLOV5<br>
-   → Super Resolution<br>
-   → Warping<br>
-   → 주요 색상 인식<br>
-   → 객체 크기 인식<br>
-   → PWM<br>
+   ➡ YOLOV5<br>
+   ➡ Super Resolution<br>
+   ➡ Warping<br>
+   ➡ 주요 색상 인식<br>
+   ➡ 객체 크기 인식<br>
+   ➡ PWM<br>
  - Imbedded borad (2022.05 ~ 2022.08)<br>
-   → Nvidia Jetson Nano<br>
+   ➡ Nvidia Jetson Nano<br>
  - 계약서 타당성 검토 웹 개발 (2021.09 ~ 2022.11)<br>
-   → Flask<br>
-   → LSTM<br>
-   → OCR<br>
+   ➡ Flask<br>
+   ➡ LSTM<br>
+   ➡ OCR<br>
  - 영어 학습 웹 개발 (2021.08 ~ 2022.09)<br>
-   → Django<br>
-   → Maria DB<br>
-   → Image Captioning<br>
-   → Transformer<br>
+   ➡ Django<br>
+   ➡ Maria DB<br>
+   ➡ Image Captioning<br>
+   ➡ Transformer<br>
  - 블로그 웹 개발 (2021.05 ~ 2022.08)<br>
-   → Django<br>
-   → Maria DB<br>
-   → Dcoker<br>
-   → Nginx<br>
+   ➡ Django<br>
+   ➡ Maria DB<br>
+   ➡ Dcoker<br>
+   ➡ Nginx<br>
  - 스터디 모임 웹 개발 (2021.05 ~ 2022.06)<br>
-   → Django<br>
-   → Maria DB<br>
+   ➡ Django<br>
+   ➡ Maria DB<br>
  - 인구 밀집도 분석 앱 개발<br>
-   → YOLOV3<br>
-   → Groom IDE<br>
+   ➡ YOLOV3<br>
+   ➡ Groom IDE<br>
 
 
 
