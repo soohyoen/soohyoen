@@ -49,42 +49,42 @@
 
 ## 💻 Projects
 
- - Panorama Motion Detection (2023.03 ~ )<br>
+ - Panorama Motion Detection for 360-degree camera (2023.03 ~ )<br>
    ➡ 여러대의 카메라를 활용한 Motion Detection<br>
    ➡ Stitching(CV tool), Motion Dectect<br>
    
- - GCS 개발 + Yolov5 적용 (2023.01 ~ )<br>
+ - Development of GCS based on QT and Application of YOLOV5 (2023.01 ~ )<br>
    ➡ GCS(Ground Control System)개발 및 AI 적용<br>
    ➡ QT, YOLOV5<br>
    
  - Realtime-Acion-Recognition (2022.11 ~ 2022.12)<br>
-    ➡ 실시간 포즈 인식<br>
+    ➡ 해상 표류물 분류를 위한 실시간 포즈 인식<br>
     ➡ Open-CV, Scikit-learn, Tensorflow<br>
     
- - Object Detection (2022.02 ~ 2022.11)<br>
+ - Incorporating Realtime Object Detection into UAM (2022.02 ~ 2022.11)<br>
    ➡ UAM 적용 Object Detection<br>
    ➡ YOLOV5, Super Resolution, Warping, 주요 색상 인식, 객체 크기 인식. PWM 제어, Labelimg<br>
    
- - Imbedded Borad (2022.05 ~ 2022.08)<br>
+ - Development using embedded board for real-time processing (2022.05 ~ 2022.08)<br>
    ➡ Nvidia Jetson Nano 기반 Object Detection<br>
    ➡ YOLOV5, Jetpack<br>
    
- - 계약서 타당성 검토 웹 개발 (2021.09 ~ 2021.11)<br>
+ - Web Development for contract Feasibility Study (2021.09 ~ 2021.11)<br>
    ➡ 인테리어 견적서 및 계약서 타당성 검토 웹 개발<br>
    ➡ Flask, LSTM, OCR<br>
    
- - 영어 학습 웹 개발 (2021.08 ~ 2021.09)<br>
+ - Web Development to help improve English writing skills (2021.08 ~ 2021.09)<br>
    ➡ 영어 작문 능력 학습을 위한 웹 개발<br> 
    ➡ Django, Maria DB, Image Captioning, Transformer<br>
    
- - 블로그 웹 개발 (2021.05 ~ 2021.08)<br>
+ - Blog Web Development to Improve Development Capabilities (2021.05 ~ 2021.08)<br>
    ➡ 블로그 기본 기능 + Social Login 및 Docker를 이용한 배포<br> 
    ➡ Django, Maria DB, Docker, Nginx<br>
    
- - 스터디 모임 웹 개발 (2021.05 ~ 2021.06)<br>
+ - Study meeting Web Development (2021.05 ~ 2021.06)<br>
    ➡ Django, Maria DB<br>
  
- - 인구 밀집도 분석 앱 개발 (2021.02 ~ 2021.05)<br>
+ - Development of population density analysis app to increase restaurant sales (2021.02 ~ 2021.05)<br>
    ➡ Object Detection을 통한 음식점 회전율 분석 프로젝트<br> 
    ➡ YOLOV3, Groom IDE<br>
 
