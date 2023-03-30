@@ -50,10 +50,10 @@
 ## 💻Project
 
  - 3D Object Detection (2023.03 ~ )<br>
-   ➡ 여러개의 카메라를 활용한 Object Detection<br>
+   ➡ 여러대의 카메라를 활용한 Motion Detection<br>
    ➡ Stitching(CV tool), Motion Dectect<br>
  - GCS 개발 + Yolov5 적용 (2023.01 ~ )<br>
-   ➡ GCS 개발 및 AI 적용<br>
+   ➡ GCS(Ground Control System)개발 및 AI 적용<br>
    ➡ QT, YOLOV5<br>
  - Realtime-Acion-Recognition (2022.11 ~ 2022.12)<br>
     ➡ 실시간 포즈 인식<br>
