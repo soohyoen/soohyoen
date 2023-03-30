@@ -8,7 +8,7 @@
 
 <br>
 
-<p aling= "center">
+<p align= "center">
 반갑습니다<br>
 제 이름은 서수현이고 AI 개발자에요!<br>
 항상 도전적인 정신을 가지며 개발에 임하고 있습니다.<br>
