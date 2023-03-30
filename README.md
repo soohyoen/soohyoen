@@ -17,7 +17,7 @@
 항상 도전적인 정신으로 개발 중이에요<br>
 </p>
 
-## 📖 Technologies I Love
+## 📚 Technologies I Love
 
 - Machine Learning
 - Deep Learning
