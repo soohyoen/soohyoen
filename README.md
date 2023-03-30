@@ -27,10 +27,24 @@
 - Linux
 - Data Link(UAM communication)
 
-## 🤐 Main Programming Languages
+## 💡 Main Programming Languages
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
-## 💡 Sub Programming Languages
-<img alt="C++" src="https://img.shields.io/badge/C++%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="JS" src="https://img.shields.io/badge/JS%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+## 🔥 Work
+
+ - 베셀 에어로스페이스(2021.12~)
+   → 데이터링크 체계업무
+   → Object Detection 기반 UAM AI 업무
+   
+## 📘 Education
+
+- 조선대학교 항공우주공학과 졸업(2022.02)
+- 인공지능 사관학교 수료(2021.12)
+
+## 🙋 Awards and Other
+
+- AWS Deep Racer Contest 최우수상 수상 (2021.02)
+- DSAC-M7.Autonomous vehicle ai Software Academy & Certificate 수료 및 자격증 (2021.02)
+- DSAC-M5.Image Analysis 수료 및 자격증 (2021.01)
+
 
