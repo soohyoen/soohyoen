@@ -81,7 +81,7 @@
    ➡ 블로그 기본 기능 + Social Login 및 Docker를 이용한 배포<br> 
    ➡ Django, Maria DB, Docker, Nginx<br>
    
- - Study meeting Web Development (2021.05 ~ 2021.06)<br>
+ - Study eeting Web Development (2021.05 ~ 2021.06)<br>
    ➡ Django, Maria DB<br>
  
  - Development of population density analysis app to increase restaurant sales (2021.02 ~ 2021.05)<br>
