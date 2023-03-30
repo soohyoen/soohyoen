@@ -6,7 +6,7 @@
 ✈️UAM Machine Learning Engineer!✈️
 </p> 
 
-</br>
+<br>
 
 <p aling= "center">
 반갑습니다<br>
