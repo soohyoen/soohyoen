@@ -36,7 +36,7 @@
    → Object Detection 기반 AI 개발<br>
    → Data Link 체계 개발
    
-## 📘 Education
+## 🏫 Education
 
 - 조선대학교 항공우주공학과 졸업(2022.02)
 - 인공지능 사관학교 수료(2021.12)
@@ -47,7 +47,7 @@
 - DSAC-M7.Autonomous vehicle ai Software Academy & Certificate 수료 및 자격증 (2021.02)
 - DSAC-M5.Image Analysis 수료 및 자격증 (2021.01)
 
-## 💻Project
+## 💻 Project
 
  - 3D Object Detection (2023.03 ~ )<br>
    ➡ 여러대의 카메라를 활용한 Motion Detection<br>
