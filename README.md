@@ -31,6 +31,6 @@
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 ## 💡 Sub Programming Languages
-<img alt="C" src="https://img.shields.io/badge/C++%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/JS%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/C++%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JS" src="https://img.shields.io/badge/JS%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
