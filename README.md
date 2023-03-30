@@ -50,6 +50,8 @@
 ## 💻Project
 
  - 3D Object Detection (2023.03 ~ )<br>
+   → Stiting(CV tool)<br>
+   → Motion Dectect<br>
  - GCS 개발 + Yolov5 적용 (2023.01 ~ )<br>
  - Realtime-Acion-Recognition (2022.11 ~ 2022.12)<br>
  - Object Detection (2022.02 ~ 2022.11)<br>
