@@ -6,13 +6,13 @@
 <br>
 
 <p align = "center">
-✈️UAM Machine Learning Engineer!✈️
+✈️Vision Machine Learning Engineer!✈️
 </p> 
 
 <br>
 
 <p align= "center">
-안녕하세요! UAM 인공지능 개발자 서수현입니다.<br>
+안녕하세요! Vision 인공지능 개발자 서수현입니다.<br>
 제가 개발한 인공지능 기술로 인해 혁신적인 변화를 일으키고 싶습니다.<br>
 서로 협력하며 새로운 가능성을 찾아나갈 수 있기를 기대합니다.<br>
 </p>
