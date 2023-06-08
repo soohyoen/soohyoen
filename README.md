@@ -35,7 +35,7 @@
  - 베셀 에어로스페이스(2021.12 ~ 2023.04)<br>
    → Object Detection 기반 AI 개발<br>
    → Data Link 체계 개발<br>
- - 스누아이랩(2023.05~)
+ - 스누아이랩(2023.05~)<br>
    → Vision 처리
    
 ## 🏫 Educations
