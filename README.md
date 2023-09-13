@@ -35,7 +35,7 @@
  - 베셀 에어로스페이스(2021.12 ~ 2023.04)<br>
    → Object Detection 기반 AI 개발<br>
    → Data Link 체계 개발<br>
- - 스누아이랩(2023.05~)<br>
+ - 스누아이랩(2023.05 ~ 2023.08)<br>
    → Vision 처리
    
 ## 🏫 Educations
@@ -51,11 +51,19 @@
 
 ## 💻 Projects
 
- - Panorama Motion Detection for 360-degree camera (2023.03 ~ )<br>
+-  Car Wash Project(2023.07 ~ 2023.08)<br>
+   ➡ 자동 세차장에 들어가는 차량의 상태여부(부착물, 가이드라인) 파악 프로젝트<br>
+   ➡ Yolov8, Server GPU, SuperbAI(Labeling tool) <br>
+
+- SNUAILAB Platform (2023.06 ~ 2023.07)<br>
+   ➡ Nvidia Platform Tao toolkit을 이용해 모델을 만든 후 Deepstream에 적용함<br>
+   ➡ Tao, Deepstream, Server GPU <br>
+
+ - Panorama Motion Detection for 360-degree camera (2023.03 ~ 2023.04)<br>
    ➡ 여러대의 카메라를 활용한 Motion Detection<br>
    ➡ Stitching(CV tool), Motion Dectect<br>
    
- - Development of GCS based on QT and Application of YOLOV5 (2023.01 ~ )<br>
+ - Development of GCS based on QT and Application of YOLOV5 (2023.01 ~ 2023.03)<br>
    ➡ GCS(Ground Control System)개발 및 AI 적용<br>
    ➡ QT, YOLOV5<br>
    
