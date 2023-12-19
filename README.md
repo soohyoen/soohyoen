@@ -26,6 +26,7 @@
 - Data Sciece
 - Linux
 - Data Link(UAM communication)
+- System Development(체계 개발)
 
 ## 💡 Main Programming Language
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
