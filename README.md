@@ -53,7 +53,7 @@ Unseen 장면에 대한 3D Reconstruction으로 혁신적인 패러다임을 구
 - AWS Deep Racer Contest 최우수상 수상 (2021.02)
 - DSAC-M7.Autonomous vehicle ai Software Academy & Certificate 수료 및 자격증 (2021.02)
 - DSAC-M5.Image Analysis 수료 및 자격증 (2021.01)
-- KCC 한국어 Open-book question answering 수상 (2024.07)
+- KCC 한국어 Open-book question & answering 대회 수상 (2024.07)
 
 ## 💻 Projects
 
