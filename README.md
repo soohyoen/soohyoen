@@ -43,13 +43,15 @@
 
 - 조선대학교 항공우주공학과 졸업(2022.02)
 - 인공지능 사관학교 수료(2021.12)
-- 국민대학교 MLLAB 학부연구생(2024.01 ~ 현재)
+- 국민대학교 MILAB 학부연구생(2024.01 ~ 2024.07)
+- 국민대학교 MILAB 석사과정(2024.08 ~ )
 
 ## 🙋 Awards and Certifications 
 
 - AWS Deep Racer Contest 최우수상 수상 (2021.02)
 - DSAC-M7.Autonomous vehicle ai Software Academy & Certificate 수료 및 자격증 (2021.02)
 - DSAC-M5.Image Analysis 수료 및 자격증 (2021.01)
+- KCC 한국어 Open-book question answering 수상 (2024.07)
 
 ## 💻 Projects
 
