@@ -25,7 +25,7 @@ Unseen 장면에 대한 3D Reconstruction으로 혁신적인 패러다임을 구
 - Object Detect
 - Data Sciece
 - Linux
-- Data Link(UAM communication)
+- Data Link(UAM electronic communication)
 - System Development(체계 개발)
 - 3D Vision(Reconstruction)
 - Style trasfer
