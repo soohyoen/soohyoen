@@ -53,6 +53,7 @@ Unseen 장면에 대한 3D Reconstruction으로 혁신적인 패러다임을 구
 - DSAC-M7.Autonomous vehicle ai Software Academy & Certificate 수료 및 자격증 (2021.02)
 - DSAC-M5.Image Analysis 수료 및 자격증 (2021.01)
 - KCC 한국어 Open-book question & answering 대회 수상 (2024.07)
+- 전자공학회(IEIE) 추계학술대회 논문 Accepted & 우수 논문상 수상 (2024.11)
 
 ## 💻 Projects
 
