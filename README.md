@@ -27,19 +27,24 @@ Unseen 장면에 대한 3D Reconstruction으로 혁신적인 패러다임을 구
 - Linux
 - Data Link(UAM electronic communication)
 - System Development(체계 개발)
-- 3D Vision(Reconstruction)
+- 3D Vision(3D Reconstruction)
 - Style trasfer
+- Large Scene Reconstruction
+- SfM(Structure from Motion)
 
 ## 💡 Main Programming Language
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 ## 🔥 Work
 
+ - 업사이트(2025.02 ~ 재직중)<br>
+   → Vision 처리<br>
+ - 스누아이랩(2023.05 ~ 2023.08)<br>
+   → Vision 처리<br>
  - 베셀 에어로스페이스(2021.12 ~ 2023.04)<br>
    → Object Detection 기반 AI 개발<br>
    → Data Link 체계 개발<br>
- - 스누아이랩(2023.05 ~ 2023.08)<br>
-   → Vision 처리
+
    
 ## 🏫 Educations
 
@@ -53,9 +58,30 @@ Unseen 장면에 대한 3D Reconstruction으로 혁신적인 패러다임을 구
 - DSAC-M7.Autonomous vehicle ai Software Academy & Certificate 수료 및 자격증 (2021.02)
 - DSAC-M5.Image Analysis 수료 및 자격증 (2021.01)
 - KCC 한국어 Open-book question & answering 대회 수상 (2024.07)
-- 전자공학회(IEIE) 추계학술대회 논문 Accepted & 우수 논문상 수상 (2024.11)
+- 2024 전자공학회(IEIE) 추계학술대회 논문 Accepted & 우수 논문상 수상 (2024.11)
+- 2026 전자공학회(IEIE) 하계학술대회 논문 투고 (심사중)
 
 ## 💻 Projects
+
+- Large-scale 3D Reconstruction Optimization (2025.12 ~ 2026.03)<br>
+   ➡ 대규모 건설 현장 영상 기반 3D Gaussian Splatting 재구성 안정화 및 품질 향상 프로젝트<br>
+   ➡ SGLD 기반 확률적 최적화와 자동 좌표 정렬을 도입하여 Reconstruction 성공률 100% 달성 및 PSNR +1.4dB 향상<br>
+   ➡ 3D Gaussian Splatting, SfM, SGLD(Stochastic Gradient Langevin Dynamics), RANSAC<br>
+
+- Construction Process Analysis & Delay Detection System (2025.10 ~ 2025.12)<br>
+   ➡ CCTV 영상 기반 건설 공종 자동 분석 및 공정 지연 탐지 시스템 개발<br>
+   ➡ VLM 기반 공종 판별 모델로 공종 분류 정확도 94.5% 달성 및 영상 분석 처리속도 78% 개선 (30분 → 5분)<br>
+   ➡ SAM(Segment Anything), TAPIR(Point Tracking), DINOv3 Few-shot, SfM, CCTag, OCR<br>
+
+- MASt3R Pose Estimation Benchmark for Large-scale Scenes (2025.09 ~ 2025.10)<br>
+   ➡ Dense Matching 기반 MASt3R Pose Estimation과 기존 SfM 파이프라인 성능 비교 연구<br>
+   ➡ 약 1,000장 이미지 기준 카메라 정합 시간 3시간 → 5분 단축 (36배 개선) 및 Pose Accuracy 97.9% 달성<br>
+   ➡ MASt3R, SfM, Dense Matching, 3D Gaussian Splatting<br>
+
+- Video-based Sensorless 3D Reconstruction Optimization (2025.02 ~ 2025.08)<br>
+   ➡ 건설 현장 영상 기반 센서 없이 3D 공간을 재구성하는 파이프라인 개발 및 경량화 연구<br>
+   ➡ LightGaussian 기반 경량화로 3D 모델 용량 753MB → 44MB (17배 감소) 및 PSNR 17.3% 향상<br>
+   ➡ D Gaussian Splatting, LightGaussian, SfM, CCTag, Model Compression<br>
 
 -  Car Wash Project(2023.07 ~ 2023.08)<br>
    ➡ 자동 세차장에 들어가는 차량의 상태여부(부착물, 가이드라인) 파악 프로젝트<br>
